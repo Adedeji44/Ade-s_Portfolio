@@ -40,7 +40,7 @@ The problem at hand is to predict the housing prices of a town or a suburb based
 
 **Goal - The goal to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.**
 
-## [Project 6: Supervised Learning - Classification Problem - Shinkansen_Travel_Experience Hackathon](https://github.com/Adedeji44/Shinkansen-Travel-Experience)
+### [Project 6: Supervised Learning - Classification Problem - Shinkansen_Travel_Experience Hackathon](https://github.com/Adedeji44/Shinkansen-Travel-Experience)
 ### - Logistics Regression, Decision Trees, Random Forest, Boosting Models , Voting Classifier, Hyperparameter Tuning
 
 Travel time of the trains along with passenger information is published in a file named ‘Traveldata_train.csv’.  These passengers were later asked to provide their feedback on various parameters related to the travel along with their overall experience. These collected details are made available in the survey report labeled ‘Surveydata_train.csv’
