@@ -11,7 +11,7 @@ Air pollution is all around us, indoors, outdoors, in cities, and in the country
 **- Reduce the number of features by using dimensionality reduction techniques such as PCA and t-SNE, and extract insights about the data.**
 
 ## [MIT-DSP Project 2: Socio_Economic_Factors_for_Geographic_Clustering](https://github.com/Adedeji44/Socio_Economic_Factors_for_Geographic_Clustering)
-### K Means, K Mediods, Gaussian Mixture Model, Hierarchical Clustering, DBSCAN
+### - K Means, K Mediods, Gaussian Mixture Model, Hierarchical Clustering, DBSCAN
 
 The study of socio-economic factors is foundational to understanding and shaping the future of societies and hence of extreme interest to various government and non-government institutions. While GDP is one of the important measures used in one of the popular economic vernacular, it is not the only measure of the growth and the state of an economy. This project aims to deep dive into one such dataset that contains various socio-economic attributes for countries around the world.
 
