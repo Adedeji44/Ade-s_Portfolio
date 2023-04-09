@@ -21,7 +21,7 @@ Missing data is a common issue in data engineering and we often get data with nu
 
 SEC Form 4 is used by officers, directors, and other corporate “insiders” to notify the U.S. Securities and Exchange Commission (SEC) of their personal transactions in their company's securities. For this exercise, please write a small scraper to extract information from Form 4 on SEC site.
 
-## [Project 4: Web_Scrape_Word_Count](https://github.com/Adedeji44/Web_Scrap_Word_Count)
+## [Project 4: Web_Scrap_Word_Count](https://github.com/Adedeji44/Web_Scrap_Word_Count)
 ### - Web Scraping.
 
 **What is the theme of this webpage?**
