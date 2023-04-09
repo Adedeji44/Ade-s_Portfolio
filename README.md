@@ -1,4 +1,35 @@
 # Ade-s_Portfolio
+## [Project 1: Stock_X_Analysis](https://github.com/Adedeji44/Stock_X_Analysis)
+### - Time Series
+
+**Guess on stock X?**
+Background: this data set is the daily stock price of a publicly traded company from 1980.
+
+Challenge: Which industry this company is in based on your analysis? Please explain how you draw your conclusion? Please include the details in your python notebook.
+
+## [Project 2: Drillhole_Geospatial_Attribute_Missing_Values_Inputation](https://github.com/Adedeji44/Geospatial_Attribute_Missing_Values_Inputation)
+### - Missing Values Evaluation & Inputation.
+
+Missing data is a common issue in data engineering and we often get data with nulls.
+
+**Challenge:** The goal of this task is to fill nulls in length and reading columns of the given geospatial drillhole data.
+
+## [Project 3: Web_Scraping](https://github.com/Adedeji44/Web_Scraping)
+### - Web Scraping.
+
+**Challenge :** Scraping SEC for inside trading information.
+
+SEC Form 4 is used by officers, directors, and other corporate “insiders” to notify the U.S. Securities and Exchange Commission (SEC) of their personal transactions in their company's securities. For this exercise, please write a small scraper to extract information from Form 4 on SEC site.
+
+## [Project 4: Web_Scrape_Word_Count](https://github.com/Adedeji44/Web_Scrap_Word_Count)
+### - Web Scraping.
+
+**What is the theme of this webpage?**
+
+Background: We would like to track the word counts to analyse the main focus of the following webpage (included main and sub pages): https://www.verisk.com/.
+
+**Challenge:** Write a simple web scraper to achieve the above task? Please include details in your python notebook. Please explain how you validate your result and findings?
+
 ## [MIT-DSP Project 1: Air_Pollution_Data_Exploration](https://github.com/Adedeji44/Air_Pollution_Data_Exploration)
 ### - Dimentionality Reduction - PCA and t-SNE
 
