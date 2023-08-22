@@ -23,14 +23,14 @@ Air pollution is all around us, indoors, outdoors, in cities, and in the country
 
 The study of socio-economic factors is foundational to understanding and shaping the future of societies and hence of extreme interest to various government and non-government institutions. While GDP is one of the important measures used in one of the popular economic vernacular, it is not the only measure of the growth and the state of an economy. This project aims to deep dive into one such dataset that contains various socio-economic attributes for countries around the world.
 
-**Objective : Identify if there exist various clusters of countries that are more similar to each other than others, in terms of certain socio-economic factors.**
+**Objective : To Identify if there exist various clusters of countries that are more similar to each other than others, in terms of certain socio-economic factors.**
 
 ### [4. CAVIAR_Network_Analysis - Generating Networks Graphs and Analysing using Centrality Measures - MIT Project](https://github.com/Adedeji44/CAVIAR_Network_Analysis).
 ## - Eigenvector, Betweenness, and Closeness Centrality measures
 
 Project is based on information on the CAVIAR project and the role of certain individuals arrested following the investigation. The investigation lasted two years and ran from 1994 to 1996. The operation was brought together by investigation units of the Montreal police and the Royal Canadian Mounted Police of Canada. During these two years, 11 wiretap warrants, valid for about two months each, were obtained (11 matrices match these phases).
 
-**Objective - We will analyze and understand a time-varying criminal network that was repeatedly disrupted by police forces, and how the criminal network reoriented in response to the seizures of product by the police forces.**
+**Objective - To analyze and understand a time-varying criminal network that was repeatedly disrupted by police forces, and how the criminal network reoriented in response to the seizures of product by the police forces.**
 
 ## [5. Superkart_Sales_Prediction - Supervised Learning - Regression Problem](https://github.com/Adedeji44/Superkart_Sales_Prediction)
 ### - Linear Regression, Ridge Regression, Decision tree regressor, Random Forest Regressor, Boosting Regressor Model, Hyperparameter Tuning
@@ -62,7 +62,7 @@ In the survey, each passenger was explicitly asked whether they were satisfied w
 
 One of the leading financial institutions in India wants to leverage Machine Learning techniques to determine the client’s loan repayment abilities and take proactive steps to reduce the magnitude of exposure to default 
 
-We are going to implement a number of Supervised Learning Classification Techniques such as LDA, QDA, Logistics regression and Boosting Classification Techniques to building a predictive model.
+I am going to implement a number of Supervised Learning Classification Techniques such as LDA, QDA, Logistics regression and Boosting Classification Techniques to building a predictive model.
 
 **Goal: The goal of the problem is to predict whether a client will default on the loan payment or not, given the recent data of all the loan transactions. This can help the institution to distinguish future applicants who might default. For each ID in the Test Dataset, you must predict the “Default” level.**
 
@@ -89,7 +89,7 @@ While there was some element of luck involved in surviving, it seems some groups
 Crude oil production is considered one of the most important indicators of the global economy. 
 Crude oil production forecasting is an important input into the decision-making process and investment scenario evaluation, which are crucial for oil-producing countries. Governments and businesses spend a lot of time and resources figuring out the production forecast that can help to identify opportunities and decide on the best way forward.
 
-**Objective - In this case study, we will analyze and use historical oil production data, from 1992 to 2018, for a country to forecast its future production. We need to build a time series forecasting model using the AR, MA, ARMA, and ARIMA models in order to forecast oil production.**
+**Objective - In this case study, I will analyze and use historical oil production data, from 1992 to 2018, for a country to forecast its future production. We need to build a time series forecasting model using the AR, MA, ARMA, and ARIMA models in order to forecast oil production.**
 
 ## [12. Consumer_Price_Index_Forecast - Time Series - AR Model](https://github.com/Adedeji44/Consumer-Price-Index-Forecast)
 
