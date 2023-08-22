@@ -3,7 +3,7 @@
 ## [Project 1: Drillhole_Geospatial_Attribute_Missing_Values_Inputation](https://github.com/Adedeji44/Geospatial_Attribute_Missing_Values_Inputation)
 ### - Missing Values Evaluation & Inputation.
 
-Missing data is a common issue in data engineering and we often get data with nulls.
+Missing data is a common issue in data engineering and we often get data with nulls
 
 **Challenge:** The goal of this task is to fill nulls in length and reading columns of the given geospatial drillhole data.
 
