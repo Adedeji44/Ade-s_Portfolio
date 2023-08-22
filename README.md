@@ -21,7 +21,7 @@ SEC Form 4 is used by officers, directors, and other corporate “insiders” to
 
 Background: We would like to track the word counts to analyse the main focus of the following webpage (included main and sub pages): https://www.verisk.com/.
 
-**Challenge:** Write a simple web scraper to achieve the above task? Please include details in your python notebook. Please explain how you validate your result and findings?
+**Challenge:** Write a simple web scraper to achieve the above task? 
 
 ## [4. Air_Pollution_Data_Exploration - MIT Project](https://github.com/Adedeji44/Air_Pollution_Data_Exploration)
 ### - Dimentionality Reduction - PCA and t-SNE
